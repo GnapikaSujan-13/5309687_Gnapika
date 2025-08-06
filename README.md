@@ -16,9 +16,9 @@
 
 -[XOR.java](hackerank/week1/XOR.java)
 
--[counting sort.java](hackerank/week1/counting sort.java)
+-[counting_sort.java](hackerank/week1/counting_sort.java)
 
--[diagonal difference.java](hackerank/week1/diagonal difference.java)
+-[diagonal_difference.java](hackerank/week1/diagonal_difference.java)
 
 -[pangrams.java](hackerank/week1/pangrams.java)
 
